@@ -4,6 +4,7 @@ Hello World
 I'm Luiz Felipe, a cybersecurity/hacking student, and an everyday learner of GNU/Linux, coding, and operations.
 
 **Follow me on my other social media platforms:**
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
