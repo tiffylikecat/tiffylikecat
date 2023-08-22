@@ -13,7 +13,7 @@ I'm Luiz Felipe, a cybersecurity/hacking student, and an everyday learner of GNU
   <img src="https://aleen42.github.io/badges/src/reddit.svg" alt="Reddit" height="28">
 </a>
 
-https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com)
 
 [![CodeWars](https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com)
