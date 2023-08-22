@@ -1,5 +1,5 @@
 <div align="center">
-Hello World
+<h1>Hello World</h1>
 
 I'm Luiz Felipe, a cybersecurity/hacking student, and an everyday learner of GNU/Linux, coding, and operations.
 
@@ -23,8 +23,9 @@ I'm Luiz Felipe, a cybersecurity/hacking student, and an everyday learner of GNU
 - Having fun with my friend Tux <3
 - I LOVE CATS, DOGGOS, AND LIZARDS
 
-
+<div align="center">
 ## Code Knowledge
+</div>
 Programing languages:
 - C
 - C++
