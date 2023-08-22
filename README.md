@@ -16,9 +16,7 @@ I'm Luiz Felipe, a cybersecurity/hacking student, and an everyday learner of GNU
 
 </div>
 
-<div align="center">
 <h2>About Me</h2>
-</div>
   
 - Usually i practice music theory or play a string musical instrument, such as the guitar.
 - Taking pictures is one of the things I enjoy; you can check out my Instagram [here](link).
