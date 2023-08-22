@@ -9,7 +9,10 @@ I'm Luiz Felipe, a cybersecurity/hacking student, and an everyday learner of GNU
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)
-[![Reddit](https://aleen42.github.io/badges/src/reddit.svg)](https://www.reddit.com)
+<a href="https://www.reddit.com">
+  <img src="https://aleen42.github.io/badges/src/reddit.svg" alt="Reddit" height="30">
+</a>
+
 [![CodeWars](https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com)
 
