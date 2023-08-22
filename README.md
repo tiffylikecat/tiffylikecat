@@ -1,16 +1,38 @@
-### Hi there 👋
+# Hello World
 
-<!--
-**tiffylikecat/tiffylikecat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Luiz Felipe, a cybersecurity/hacking student, and an everyday learner of GNU/Linux, coding, and operations.
 
-Here are some ideas to get you started:
+**Follow me on my other social media platforms:**
+- Email
+- Discord
+- LinkedIn
+- Instagram
+- Reddit
+- TryHackMe
+- CodeWars
+- BeeCrown
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- I usually practice music theory or play a string musical instrument, such as the guitar.
+- Taking pictures is one of the things I enjoy; you can check out my Instagram [here](link).
+- I play video games for fun and to win. Feel free to add me on Discord [here](link).
+- I have fun with my friend Tux <3
+
+## Code Knowledge
+Programing languages:
+- C
+- C++
+- Rust
+- Python
+- Go
+- JavaScript
+- SQL
+
+Dev/Ops tools:
+- Bash
+- Visual Studio Code
+- Vim
+- Nano
+- Git
+- MySQL
+- PostgreSQL
