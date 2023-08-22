@@ -15,11 +15,13 @@ I'm Luiz Felipe, a cybersecurity/hacking student, and an everyday learner of GNU
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com)
 
 </div>
-## About Me
-- I usually practice music theory or play a string musical instrument, such as the guitar.
+About Me
+- Usually i practice music theory or play a string musical instrument, such as the guitar.
 - Taking pictures is one of the things I enjoy; you can check out my Instagram [here](link).
-- I play video games for fun and to win. Feel free to add me on Discord [here](link).
-- I have fun with my friend Tux <3
+- Playing video games for fun and to win. Feel free to add me on Discord [here](link).
+- Having fun with my friend Tux <3
+- I LOVE CATS, DOGGOS, AND LIZARDS
+
 
 ## Code Knowledge
 Programing languages:
