@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
 Hello World
 
 I'm Luiz Felipe, a cybersecurity/hacking student, and an everyday learner of GNU/Linux, coding, and operations.
@@ -12,7 +12,7 @@ I'm Luiz Felipe, a cybersecurity/hacking student, and an everyday learner of GNU
 - TryHackMe
 - CodeWars
 - BeeCrown
-</p>
+</div>
 ## About Me
 - I usually practice music theory or play a string musical instrument, such as the guitar.
 - Taking pictures is one of the things I enjoy; you can check out my Instagram [here](link).
