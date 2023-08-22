@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hello World</h1>
+<h2>Hello World</h2>
 
 I'm Luiz Felipe, a cybersecurity/hacking student, and an everyday learner of GNU/Linux, coding, and operations.
 
@@ -16,7 +16,10 @@ I'm Luiz Felipe, a cybersecurity/hacking student, and an everyday learner of GNU
 
 </div>
 
-## About Me
+<div align="center">
+<h2>About Me</h2>
+</div>
+  
 - Usually i practice music theory or play a string musical instrument, such as the guitar.
 - Taking pictures is one of the things I enjoy; you can check out my Instagram [here](link).
 - Playing video games for fun and to win. Feel free to add me on Discord [here](link).
