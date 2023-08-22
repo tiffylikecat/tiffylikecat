@@ -42,7 +42,8 @@ Programing languages:
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fmysql%2Fmysql_PNG23.png&f=1&nofb=1&ipt=cb61f342d83b8c167fcbbe6e3ee26e3affcc520fce96704c6c8f2baece969274&ipo=images" width="100" height="100">
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.xw8t7KY6IPR7ptvF6fIq9AHaHa%26pid%3DApi&f=1&ipt=fe926495d5a65d04942c511fc781a63a15bb5a3210c7f2e2cff190223a9efacb&ipo=images" width="100" height="100">
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.golem.de%2Fspecials%2F_img%2FPostgreSQL%2FPostgresql.png&f=1&nofb=1&ipt=21924ad85de7f26d897bf874750e05257bd8f3b52c396e0c18fb55545fc147b0&ipo=images" width="100" height="100">
+
 
 </dev>
 
