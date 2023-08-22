@@ -1,5 +1,5 @@
 <p align="center">
-# Hello World
+Hello World
 
 I'm Luiz Felipe, a cybersecurity/hacking student, and an everyday learner of GNU/Linux, coding, and operations.
 
