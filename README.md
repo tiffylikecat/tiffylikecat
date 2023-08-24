@@ -1,9 +1,9 @@
 <div align="center">
 <h2>Hello World</h2>
 
-<img src="https://media.tenor.com/rx5yDgZCNKEAAAAi/star-kawaii-kawaii.gif" alt="Imagem" width="100" height="100">
+<img src="https://media.tenor.com/rx5yDgZCNKEAAAAi/star-kawaii-kawaii.gif" alt="Imagem" width="50" height="50">
 I'm Luiz Felipe, a cybersecurity/hacking student, and an everyday learner of GNU/Linux, coding, and operations.
-<img src="https://media.tenor.com/rx5yDgZCNKEAAAAi/star-kawaii-kawaii.gif" alt="Imagem" width="100" height="100">
+<img src="https://media.tenor.com/rx5yDgZCNKEAAAAi/star-kawaii-kawaii.gif" alt="Imagem" width="50" height="50">
 
 **Follow me on my other social media platforms:**
 
