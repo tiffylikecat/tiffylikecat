@@ -55,4 +55,3 @@ Programing languages:
 <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="100" height="100">
 - I LOVE CATS, DOGGOS, AND LIZARDS 🐱🐶🦎!!!
 <img src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif" width="100" height="100">
-
