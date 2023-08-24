@@ -44,7 +44,8 @@ Programing languages:
 </div>
 
 <h2>About Me</h2>
-  
+
+<img src="https://media.tenor.com/yDLxbWD1rkcAAAAi/guitar-amp-electric-guitar.gif" alt="Imagem" width="100" height="100">
 - Usually i practice music theory or play a string musical instrument, such as the guitar 🎸.
 <div align="center">
 <img src="https://media.tenor.com/yDLxbWD1rkcAAAAi/guitar-amp-electric-guitar.gif" alt="Imagem" width="100" height="100">
