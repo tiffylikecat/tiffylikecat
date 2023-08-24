@@ -47,7 +47,7 @@ Programing languages:
   
 - Usually i practice music theory or play a string musical instrument, such as the guitar 🎸.
 <div align="center">
-<img src="https://media.tenor.com/yDLxbWD1rkcAAAAi/guitar-amp-electric-guitar.gif" alt="Imagem" width="30" height="30">
+<img src="https://media.tenor.com/yDLxbWD1rkcAAAAi/guitar-amp-electric-guitar.gif" alt="Imagem" width="80" height="80">
 </div>
 
 - Taking pictures is one of the things I enjoy 📸; you can check out my [Instagram](link).
