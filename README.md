@@ -45,9 +45,13 @@ Programing languages:
 
 <h2>About Me</h2>
 
-- Usually i practice music theory or play a string musical instrument, such as the guitar 🎸. <img src="https://media.tenor.com/yDLxbWD1rkcAAAAi/guitar-amp-electric-guitar.gif" alt="Imagem" width="100" height="100">
+- Usually i practice music theory or play a string musical instrument, such as the guitar 🎸.
+<img src="https://media.tenor.com/yDLxbWD1rkcAAAAi/guitar-amp-electric-guitar.gif" alt="Imagem" width="100" height="100">
 - Taking pictures is one of the things I enjoy 📸; you can check out my [Instagram](link).
-- Playing video games for fun and to win. 🎮 Feel free to add me on [Discord](link).<img src="https://media.tenor.com/lDP4QgUYoDkAAAAi/minecraft.gif" alt="Imagem" width="100" height="100">
-- Having fun with my friend Tux 💕🐧<img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="100" height="100">
-- I LOVE CATS, DOGGOS, AND LIZARDS 🐱🐶🦎!!!<img src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif" width="100" height="100">
+- Playing video games for fun and to win. 🎮 Feel free to add me on [Discord](link).
+<img src="https://media.tenor.com/lDP4QgUYoDkAAAAi/minecraft.gif" alt="Imagem" width="100" height="100">
+- Having fun with my friend Tux 💕🐧
+<img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="100" height="100">
+- I LOVE CATS, DOGGOS, AND LIZARDS 🐱🐶🦎!!!
+<img src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif" width="100" height="100">
 
