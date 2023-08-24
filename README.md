@@ -5,6 +5,8 @@
 I'm Luiz Felipe, a cybersecurity/hacking student, and an everyday learner of GNU/Linux, coding, and operations.
 <img src="https://media.tenor.com/rx5yDgZCNKEAAAAi/star-kawaii-kawaii.gif" alt="Imagem" width="50" height="50">
 
+<img src="https://media.tenor.com/rx5yDgZCNKEAAAAi/star-kawaii-kawaii.gif" alt="Imagem" width="50" height="50">
+<img src="https://media.tenor.com/rx5yDgZCNKEAAAAi/star-kawaii-kawaii.gif" alt="Imagem" width="50" height="50">
 **Follow me on my other social media platforms:**
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com)
