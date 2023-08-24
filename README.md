@@ -5,8 +5,6 @@
 I'm Luiz Felipe, a cybersecurity/hacking student, and an everyday learner of GNU/Linux, coding, and operations.
 <img src="https://media.tenor.com/rx5yDgZCNKEAAAAi/star-kawaii-kawaii.gif" alt="Imagem" width="50" height="50">
 
-<img src="https://media.tenor.com/rx5yDgZCNKEAAAAi/star-kawaii-kawaii.gif" alt="Imagem" width="50" height="50">
-<img src="https://media.tenor.com/rx5yDgZCNKEAAAAi/star-kawaii-kawaii.gif" alt="Imagem" width="50" height="50">
 **Follow me on my other social media platforms:**
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com)
@@ -17,6 +15,8 @@ I'm Luiz Felipe, a cybersecurity/hacking student, and an everyday learner of GNU
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com)
+
+<img src="https://media.tenor.com/ZqMlZNvC2BYAAAAi/pixel-art-mrp.gif" alt="Imagem" width="100 height="50">
 
 </div>
 
