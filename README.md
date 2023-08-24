@@ -47,7 +47,6 @@ Programing languages:
 
 - Usually i practice music theory or play a string musical instrument, such as the guitar 🎸.
 <img src="https://media.tenor.com/yDLxbWD1rkcAAAAi/guitar-amp-electric-guitar.gif" alt="Imagem" width="100" height="100">
-<a href="https://www.instagram.com/lipe_root/" target="_blank">Instagram</a>
 - Taking pictures is one of the things I enjoy 📸; you can check out my <a href="https://www.instagram.com/lipe_root/" target="_blank">Instagram</a>.
 <img src="https://media.tenor.com/d57H-0rOQ7AAAAAi/anime-girl.gif" alt=Imagem width="100" height="100">
 - Playing video games for fun and to win. 🎮 Feel free to add me on <a href="https://discord.com/users/472432726876749850" target="_blank">Discord</a>.
