@@ -2,7 +2,7 @@
 <h2>Hello World</h2>
 
 <img src="https://media.tenor.com/rx5yDgZCNKEAAAAi/star-kawaii-kawaii.gif" alt="Imagem" width="50" height="50">
-I'm Luiz Felipe, a cybersecurity/hacking student, and a developer GNU/Linux user.
+I'm Luiz Felipe, a cybersecurity/hacking student, and a GNU/Linux user.
 <img src="https://media.tenor.com/rx5yDgZCNKEAAAAi/star-kawaii-kawaii.gif" alt="Imagem" width="50" height="50">
 
 **Follow me on my other social media platforms:**
