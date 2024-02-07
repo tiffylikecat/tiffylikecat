@@ -18,6 +18,10 @@ Programing Languages:<br>
 
 <p>
 Dev and Ops Tools:<br>
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F1327215.png&f=1&nofb=1&ipt=77e7e8c72d6c19e15e807de82f33746eb83a3140af2fb8454af309cb169f630c&ipo=images" width="30" height="30">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdaffyta.github.io%2Fassets%2Fimg%2Ficono%2Fgit.png&f=1&nofb=1&ipt=772e0a0178638a3f581754a6941c609e40e47f6e6200f3c6816f9372c9c0ac17&ipo=images" width="30" height="30">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fgithub%2Fgithub_PNG84.png&f=1&nofb=1&ipt=233a4496c74d8d99386dd31865637c397285864cf7f72717ea3fe7d5170a5d64&ipo=images" width="30" height="30">
 <img src="https://seekicon.com/free-icon-download/linux-tux_1.png" width="30" height="30">
+<img src="https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/apps/debian-logo.png" width="30" height="30">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-1024.png" width="30" height="30">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F1327215.png&f=1&nofb=1&ipt=77e7e8c72d6c19e15e807de82f33746eb83a3140af2fb8454af309cb169f630c&ipo=images" width="30" height="30">
 </p>
