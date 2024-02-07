@@ -34,5 +34,5 @@ Dev and Ops Tools:<br>
 
 <p>
 <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="100" height="100">
-<img src="https://github.com/tiffylikecat/tiffylikecat/blob/main/linuxTerminal.png" width="125" height="125" style="float: right;">
+<img src="https://github.com/tiffylikecat/tiffylikecat/blob/main/linuxTerminal.png">
 </p>
