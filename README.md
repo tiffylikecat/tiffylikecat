@@ -1,8 +1,4 @@
 <p align="center">
-ola
-</p>
-
-<p>
 Welcome to my github profile.🐱<br>
 I'm a Technology entusiast, and someone who likes to code on the free time.<br>
 I have a passion for language learning, feel free to chat with me in:🇧🇷 🇺🇸 🇪🇸 🇮🇹<br>
@@ -17,7 +13,6 @@ Programing Languages:<br>
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2699%2FPNG%2F512%2Fgolang_logo_icon_171073.png&f=1&nofb=1&ipt=dfd467e009199d9ca2ae17c06f8b1ea64f6b9186b678f5c7e17b3e48bf13916c&ipo=images" width="46" height="46">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.vexels.com%2Fmedia%2Fusers%2F3%2F166403%2Fisolated%2Fpreview%2Fa5a33bf3004830a2bd581e9fa65de660-javascript-programming-language-icon-by-vexels.png&f=1&nofb=1&ipt=07853b81e026cee8295701e8599c20c2dbec2c278f40a2735bc89050dbd2dd29&ipo=images" width="46" height="46">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fplmlab.math.cnrs.fr%2Fuploads%2F-%2Fsystem%2Fproject%2Favatar%2F3450%2Flogo-bash.png&f=1&nofb=1&ipt=bc7658440baf96a87d11f2bac05088bf01f6215cf127c261913d93f7216d274c&ipo=images" width="46" height="46">
-
 </p>
 
 <p>
@@ -33,6 +28,6 @@ Dev and Ops Tools:<br>
 </p>
 
 <p align="center">
-<img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="100" height="100">
 <img src="https://github.com/tiffylikecat/tiffylikecat/blob/main/linuxTerminal.png">
+<img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="100" height="100">
 </p>
