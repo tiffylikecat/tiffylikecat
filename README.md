@@ -32,7 +32,7 @@ Dev and Ops Tools:<br>
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.golem.de%2Fspecials%2F_img%2FPostgreSQL%2FPostgresql.png&f=1&nofb=1&ipt=21924ad85de7f26d897bf874750e05257bd8f3b52c396e0c18fb55545fc147b0&ipo=images" width="46" height="46"><br><br>
 </p>
 
-<p>
+<p align="center">
 <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="100" height="100">
 <img src="https://github.com/tiffylikecat/tiffylikecat/blob/main/linuxTerminal.png">
 </p>
