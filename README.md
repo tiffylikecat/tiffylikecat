@@ -2,6 +2,11 @@
 ola
 </p>
 
+
+<div style="text-align: right;">
+<img src="https://github.com/tiffylikecat/tiffylikecat/blob/main/linuxTerminal.png">
+</div>
+
 <p>
 Welcome to my github profile.🐱<br>
 I'm a Technology entusiast, and someone who likes to code on the free time.<br>
