@@ -1,5 +1,4 @@
 <p align="center">
-## Welcome to my github profile.🐱
 Welcome to my github profile.🐱<br>
 I'm a Technology entusiast, and someone who likes to code on the free time.<br>
 I have a passion for language learning, feel free to chat with me in:🇧🇷 🇺🇸 🇪🇸 🇮🇹<br>
