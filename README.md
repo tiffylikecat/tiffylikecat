@@ -24,4 +24,6 @@ Dev and Ops Tools:<br>
 <img src="https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/apps/debian-logo.png" width="30" height="30">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-1024.png" width="30" height="30">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F1327215.png&f=1&nofb=1&ipt=77e7e8c72d6c19e15e807de82f33746eb83a3140af2fb8454af309cb169f630c&ipo=images" width="30" height="30">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fmysql%2Fmysql_PNG23.png&f=1&nofb=1&ipt=cb61f342d83b8c167fcbbe6e3ee26e3affcc520fce96704c6c8f2baece969274&ipo=images" width="30" height="30">
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.golem.de%2Fspecials%2F_img%2FPostgreSQL%2FPostgresql.png&f=1&nofb=1&ipt=21924ad85de7f26d897bf874750e05257bd8f3b52c396e0c18fb55545fc147b0&ipo=images" width="30" height="30">
 </p>
