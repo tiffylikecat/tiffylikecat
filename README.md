@@ -2,15 +2,10 @@
 ola
 </p>
 
-
-<div style="text-align: right;">
-<img src="https://github.com/tiffylikecat/tiffylikecat/blob/main/linuxTerminal.png">
-</div>
-
 <p>
 Welcome to my github profile.🐱<br>
 I'm a Technology entusiast, and someone who likes to code on the free time.<br>
-I have a paxion for language learning, feel free to chat with me in:🇧🇷 🇺🇸 🇪🇸 🇮🇹<br>
+I have a passion for language learning, feel free to chat with me in:🇧🇷 🇺🇸 🇪🇸 🇮🇹<br>
 </p>
 
 <p>
@@ -38,5 +33,5 @@ Dev and Ops Tools:<br>
 </p>
 
 <div style="text-align: right;">
-<img src="https://github.com/tiffylikecat/tiffylikecat/blob/main/linuxTerminal.png">
+<img src="https://github.com/tiffylikecat/tiffylikecat/blob/main/linuxTerminal.png" style="float: right;">
 </div>
