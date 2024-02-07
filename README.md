@@ -17,6 +17,7 @@ Programing Languages:<br>
 </p>
 
 <p>
-Dev and Ops Tools:
+Dev and Ops Tools:<br>
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F1327215.png&f=1&nofb=1&ipt=77e7e8c72d6c19e15e807de82f33746eb83a3140af2fb8454af309cb169f630c&ipo=images" width="30" height="30">
+<img src="https://seekicon.com/free-icon-download/linux-tux_1.png" width="30" height="30">
 </p>
