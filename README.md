@@ -1,3 +1,7 @@
+<div style="text-align: right;">
+    <img src="https://github.com/tiffylikecat/tiffylikecat/blob/main/linuxTerminal.png" width="125" height="125">
+</div>
+
 <p align="center">
 ola
 </p>
