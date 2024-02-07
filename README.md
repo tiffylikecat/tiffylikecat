@@ -33,5 +33,5 @@ Dev and Ops Tools:<br>
 </p>
 
 <div style="text-align: right;">
-<img src="https://github.com/tiffylikecat/tiffylikecat/blob/main/linuxTerminal.png" style="float: right;">
+<img src="https://github.com/tiffylikecat/tiffylikecat/blob/main/linuxTerminal.png" width="125" height="125" style="float: right;">
 </div>
